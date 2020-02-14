@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Resume</title>
+<body>
+<p>Nethra S</p>
+<p>subramanibhagya22@gmail.com</p>
+<p>+91 85498 53936</p>
+
+<h2>HTML Image</h2>
+<img src="img_chania.jpg" text-align="center" alt="Flowers in Chania" width="460" height="345">
+<hr width="100%" size="3">
+
+</body>
+</html>

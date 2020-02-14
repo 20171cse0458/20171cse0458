@@ -1,0 +1,18 @@
+<!--style colors -->
+<h1 style="background-image: url('/home/Student/Desktop/cse0458/workplace.jpg'); background-repeat:repeat; background-position: 5px 100px;">
+<p style="background-color:#ff6347;">welcome to happy world....</p>
+<p style="background-color:#ff6699;">keep smiling....</p>
+
+<h1 style="font-family:verdana;">Hiiii...</h1>
+<p style="font-family:courier;">welcome to happy world....</p>
+<p style="font-family:courier;">keep smiling....</p>
+
+<h1 style="font-size:300%;">Hiiii &nbsp;&nbsp;&nbsp;baby</h1>
+<p style="font-size:160%;">welcome to happy world....&amp;</p>
+<p style="font-size:100%;">keep smiling....</p>
+
+<p style="text-align:center;">welcome to happy world....</p>
+<p style="text-align:right;">keep smiling....</p>
+
+
+
