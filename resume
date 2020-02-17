@@ -7,9 +7,51 @@
 <p>subramanibhagya22@gmail.com</p>
 <p>+91 85498 53936</p>
 
-<h2>HTML Image</h2>
-<img src="img_chania.jpg" text-align="center" alt="Flowers in Chania" width="460" height="345">
 <hr width="100%" size="3">
 
+<h3>CV HIGHLIGHTS </h3> 
+<ul type="square">
+
+<li>Programing in Python</li>
+<li>Data mining</li>
+<li>Programing in sql</li>
+</ul>
+
+<hr width="100%" size="3">
+
+<h1>PROFESSION EXPERIENCE </h1> 
+
+
+
+<hr width="100%" size="3">
+
+<h1>EDUCATION QUALIFICATION</h1> 
+<table border="1">
+<tr>
+    <th>Qualification</th>
+    <th>Board</th>
+    <th>Percentage/CGPA</th>
+    <th>Year</th>
+  </tr>
+  <tr>
+    <td>SSLC</td>
+    <td>SFS High School, Srinivaspur</td>
+    <td>88.48%</td>
+    <td>2015</td>
+  </tr>
+  <tr>
+    <td>PU</td>
+    <td>SFS PU College, Kolar</td>
+    <td>72%</td>
+    <td>2017</td>
+  </tr>
+ <tr>
+    <td>B.Tech</td>
+    <td>Presidency University, Bangalore</td>
+    <td>6.07</td>
+    <td>2021</td>
+  </tr>
+
+<hr width="100%" size="3">
 </body>
 </html>
