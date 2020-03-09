@@ -1,0 +1,19 @@
+<html>
+<head>image property</head>
+<style>
+
+
+img{
+border:10px solid red;
+padding:100px;
+height:100px;
+width:100px;
+opacity=0.5;
+}
+</style>
+<body>
+<img src="home/Student/Desktop/cse0458/workplace.jpg";>
+
+</body>
+
+</html>
