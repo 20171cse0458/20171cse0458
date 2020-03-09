@@ -1,0 +1,20 @@
+<!Doctype html>
+<html>
+<head>
+<style>
+p.center{
+text-align:center;
+color:red;
+}
+p.large{
+font-size:300%;
+}
+</head> 
+</style>
+ 
+<body>
+<p class="centre">this heading will not be affected</p>
+<p class="large">this paragrapgh will be red and centre</p>
+<p class="centre large">this paragraph will be red, centre</p>
+</body>
+</html>
